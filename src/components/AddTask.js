@@ -11,7 +11,7 @@ const AddTask = ({ onAdd }) => {
         }
         else {
             onAdd({
-            id : Math.floor(Math.random()*100+1 ),
+            //id : Math.floor(Math.random()*100+1 ),
             day : day,
             text : text,
             reminder : reminder,
