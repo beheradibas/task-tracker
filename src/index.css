@@ -70,6 +70,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
+}
+.task h3 .taskname{
+  overflow: auto;
 }
 
 .add-form {

@@ -1,4 +1,4 @@
-  {
+{
   "tasks": [
     {
       "id": 1,
@@ -23,6 +23,18 @@
       "day": "Wednesday",
       "text": "Food",
       "reminder": true
+    },
+    {
+      "day": "23-06-2021 18:14pm",
+      "text": "Sucessfully Run of Server and Client on a single run command",
+      "reminder": false,
+      "id": 26
+    },
+    {
+      "day": "",
+      "text": "Use this task to check delete button",
+      "reminder": true,
+      "id": 27
     }
   ]
 }
