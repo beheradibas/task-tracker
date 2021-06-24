@@ -8,6 +8,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
+This project has different start functionality.
+First it starts "json-server" at [http://localhost:5000] which serves as
+local backend.
+
+And then it starts the react-app.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
