@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 This project has different start functionality.
-First it starts "json-server" at [http://localhost:5000] which serves as
+First it starts "json-server" at [http://localhost:5000](http://localhost:5000) which serves as
 local backend.
 
 And then it starts the react-app.
